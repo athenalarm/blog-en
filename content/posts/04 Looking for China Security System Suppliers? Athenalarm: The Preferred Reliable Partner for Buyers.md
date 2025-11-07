@@ -131,9 +131,9 @@ These include **logo printing**, **firmware customization**, and **localized int
 Long-term clients emphasize Athenalarm’s **easy installation**, **stable performance**, and **responsive support**.
 
 💬 **Customer Feedback**  
-“The intrusion alarm is fine, I installed one set and it works great.” – Rabeah Arnous, CEO
-“Amazing system…Have installed it and my client was very satisfied. 5-star rating.” – Bassey Tom, CEO
-“The network alarm monitoring system is so good, easy to use, easy to install and above real time transmission. We look forward to our next order.” – Ben Takan, Security Coordinator
+- “The intrusion alarm is fine, I installed one set and it works great.” – Rabeah Arnous, CEO
+- “Amazing system…Have installed it and my client was very satisfied. 5-star rating.” – Bassey Tom, CEO
+- “The network alarm monitoring system is so good, easy to use, easy to install and above real time transmission. We look forward to our next order.” – Ben Takan, Security Coordinator
 
 Such testimonials affirm its reputation among **top security system suppliers in China**.
 
