@@ -38,7 +38,7 @@ At the heart of these suppliers’ offerings are several categories of alarm sol
 
 ### 1. Burglar alarm panels and detectors
 
-Athenalarm provides [alarm control panels](https://athenalarm.com/burglar-alarm/intrusion-alarm-panel/alarm-control-panel/) (wired or networked) , motion sensors (PIR, curtain PIR), door/window contacts, gas and smoke detectors, panic buttons and other input devices. These foundational components detect intrusions or irregular events and trigger alarms. The manufacturing of these devices in China allows for adaptation to different standards, languages, communication protocols and budgets.
+Athenalarm provides [alarm control panels](https://athenalarm.com/burglar-alarm/intrusion-alarm-panel/alarm-control-panel/) (wired, wireless, networked) , motion sensors (PIR, curtain PIR), door/window contacts, gas and smoke detectors, panic buttons and other input and output devices. These foundational components detect intrusions or irregular events and trigger alarms. The manufacturing of these devices in China allows for adaptation to different standards, languages, communication protocols and budgets.
 
 ![Network Alarm Monitoring System](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-network-alarm-monitoring-system-1-1024.jpg)
 
