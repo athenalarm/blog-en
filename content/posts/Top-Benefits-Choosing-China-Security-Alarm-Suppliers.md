@@ -46,7 +46,6 @@ Athenalarm provides [alarm control panels](https://athenalarm.com/burglar-alarm/
 
 This is where the China security alarm suppliers elevate their value. Athenalarm describes a “[network alarm monitoring system](https://athenalarm.com/network-alarm-system/network-alarm-monitoring-system-application/)” that ties alarm system events (intrusion, fire, perimeter breach) to live video feeds from CCTV cameras. When an alarm occurs, the video of the site can automatically pop up in the control centre. The described solution uses 4G and TCP/IP modules in the alarm control panel, enabling remote transmission. And the software supports remote monitoring, device status, maintenance logs and statistical reporting.
 
-Watch a demonstration video:
 [![Athenalarm alarm + CCTV](https://img.youtube.com/vi/cIBxzrVTb4A/0.jpg)](https://www.youtube.com/watch?v=cIBxzrVTb4A)
 
 #### Key features to note
@@ -113,7 +112,6 @@ For bulk procurement professionals evaluating China security alarm suppliers, At
 
 Founded in 2006, Athenalarm has nearly two decades of experience in burglar alarm manufacturing, research and design. They emphasise their focus on network alarm monitoring systems as their main solution. Their product lines are extensive: alarm control panels, software (AS-ALARM), detectors (motion, gas, smoke) and components.
 
-Watch a system overview video:
 [![Athenalarm Network Alarm System](https://img.youtube.com/vi/OG99LU33DYs/0.jpg)](https://www.youtube.com/watch?v=OG99LU33DYs)
 
 ### Advantages for international bulk buyers
