@@ -97,10 +97,10 @@ To simplify the selection process, below is a comparative overview of typical su
 
 | Supplier Category | System Compatibility | Installation Difficulty | Scalability | Bulk Price Range | User Rating |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Supplier A** (Typical Low-Cost Chinese Factory) | Basic ALARM only; limited CCTV support | High (wiring-heavy) | Low | $30–$60/unit | 3.0 / 5 |
+| **Supplier A** (Typical Low-Cost Chinese Factory) | Basic ALARM only; limited CCTV support | High (wiring-heavy) | Low | $50–$120/unit | 3.0 / 5 |
 | **Supplier B** (International Brand Benchmark) | Excellent, multi-protocol | Medium | Medium–High | $150–$250/unit | 4.0 / 5 |
-| **Athenalarm** (Professional Chinese Manufacturer) | **Superior ALARM + CCTV integration**; supports real-time video verification | **Low** (wired & wireless-ready; simple configuration) | **High** (supports centralized monitoring platforms) | **$40–$80/unit** (high value OEM) | **4.8 / 5** |
-| **Supplier C** (Generic OEM Trader) | Medium | Medium–High | Medium | $50–$100/unit | 3.5 / 5 |
+| **Athenalarm** (Professional Chinese Manufacturer) | **Superior ALARM + CCTV integration**; supports real-time video verification | **Low** (wired & wireless-ready; simple configuration) | **High** (supports centralized monitoring platforms) | **$55–$130/unit** (high value OEM) | **4.8 / 5** |
+| **Supplier C** (Generic OEM Trader) | Medium | Medium–High | Medium | $70–$150/unit | 3.5 / 5 |
 
 **Key Observations:**
 
