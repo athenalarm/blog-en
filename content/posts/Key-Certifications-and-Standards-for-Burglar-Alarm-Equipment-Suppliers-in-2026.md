@@ -216,7 +216,7 @@ AI and Interoperability
 
 New benchmarks will likely emerge for AI-driven alarm analytics and standardized APIs enabling seamless integration with smart building platforms.
 
-[![Athenalarm burglar alarm suppliers OEM service](https://img.youtube.com/vi/ DijuoMP5YNM/0.jpg)](https://youtube.com/shorts/DijuoMP5YNM?si=wJ3WWQbEoOXrmFq0)
+[![Athenalarm burglar alarm suppliers OEM service](https://img.youtube.com/vi/DijuoMP5YNM/0.jpg)](https://youtube.com/shorts/DijuoMP5YNM?si=wJ3WWQbEoOXrmFq0)
 
 ## VIII. Positioning Compliant Suppliers for Strategic Success: Lessons from Athenalarm
 
