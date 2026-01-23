@@ -189,7 +189,7 @@ LCD keypad, voice prompts, multi-language. Up to 11 users for role-based access.
 
 ![industrial-grade alarm panel certification](https://athenalarm.com/wp-content/uploads/2023/03/Athenalarm-alarm-control-panel-IEC-62368-1.jpg)
 
-Certifications include CCC and IEC 62368-1, ensuring compliance [source](https://athenalarm.com/burglar-alarm/intrusion-alarm-panel/alarm-control-panel).
+Certifications include [CCC and IEC 62368-1](https://athenalarm.com/burglar-alarm/intrusion-alarm-panel/alarm-control-panel), ensuring compliance.
 
 ### Communication Details
 
