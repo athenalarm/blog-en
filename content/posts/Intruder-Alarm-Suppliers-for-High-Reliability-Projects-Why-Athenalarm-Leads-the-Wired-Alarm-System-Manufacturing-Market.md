@@ -85,13 +85,13 @@ For banks and enterprises, alarm panels offer specialized features like vault-sp
 
 [Network alarm monitoring systems](https://athenalarm.com/network-alarm-system/network-alarm-monitoring-system-application/) take integration further. Combining burglar alarms with CCTV, these platforms provide encrypted, redundant transmission. Real-time video verification—triggered by alarms—allows monitoring centers to distinguish genuine threats from nuisances, slashing response times.
 
-[![Athenalarm Network Alarm Monitoring System](https://img.youtube.com/vi/rTVlkzEc7WBjjLUx/0.jpg)](https://www.youtube.com/watch?v=rTVlkzEc7WBjjLUx)
+[![Athenalarm Network Alarm Monitoring System](https://img.youtube.com/vi/cIBxzrVTb4A/0.jpg)](https://www.youtube.com/watch?v=cIBxzrVTb4A)
 
 [Voice reminders](https://athenalarm.com/burglar-alarm/voice-reminder/) add a layer of deterrence. PIR-triggered MP3 alerts can broadcast warnings, greetings, or evacuation instructions, useful in retail or public spaces.
 
 Athenalarm's R&D emphasis on digital and intelligent solutions ensures future-proofing. Their systems support cloud integration for app-based control, appealing to modern enterprises seeking IoT compatibility without compromising wired reliability.
 
-[![Athenalarm Voice Reminder](https://img.youtube.com/vi/gMcE5XeYyXc/0.jpg)](https://www.youtube.com/watch?v=gMcE5XeYyXc)
+[![Athenalarm Voice Reminder](https://img.youtube.com/vi/MlH56fCiDjg/0.jpg)](https://www.youtube.com/watch?v=MlH56fCiDjg)
 
 ## Manufacturing and Supply Chain Mastery: The Backbone of Reliability
 
@@ -105,7 +105,7 @@ For bulk buyers, this means reliable wired alarm system suppliers capable of han
 
 Sustainability and ethics are implicit in their ISO9001 compliance, ensuring environmentally sound practices and worker safety.
 
-[![Athenalarm Manufacturing Facility](https://img.youtube.com/vi/DijuoMP5YNM/0.jpg)](https://www.youtube.com/watch?v=DijuoMP5YNM)
+[![Athenalarm Manufacturing Facility](https://img.youtube.com/vi/UfHPtrR1dFc/0.jpg)](https://www.youtube.com/watch?v=UfHPtrR1dFc)
 
 ## OEM and Private Label Expertise: Tailoring Solutions for Market Dominance
 
