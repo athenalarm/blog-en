@@ -153,7 +153,7 @@ Athenalarm's model includes project consultations and global assistance, empower
 
 Integration potential rounds out the criteria.
 
-Portfolios should facilitate connections to broader ecosystems, such as **[4G/TCP/IP modules for cloud-based monitoring](https://athenalarm.com/burglar-alarm/alarm-software/network-alarm-center-management-software/)**.
+Portfolios should facilitate connections to broader ecosystems, such as **[4G/TCP/IP modules for cloud-based monitoring](https://athenalarm.com/network-alarm-system/network-alarm-monitoring-system-application/)**.
 
 This capability not only elevates product appeal but also unlocks recurring income through service add-ons—vital for sustained margins.
 
