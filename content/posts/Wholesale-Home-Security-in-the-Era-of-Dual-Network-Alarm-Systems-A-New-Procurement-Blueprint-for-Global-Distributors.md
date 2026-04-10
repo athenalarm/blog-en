@@ -39,7 +39,7 @@ Finally, robust warranty, documentation, and after-sales infrastructure separate
 
 ### Athenalarm Wholesale Solutions — Company Credentials & Value Proposition
 
-Since its founding in 2006 in Shenzhen, Athenalarm has built a reputation as a dedicated burglar alarm manufacturer focused on research, design, and production of high-quality wireless and network alarm systems. With nearly two decades of experience, the company has evolved from producing early AS-9000 series panels to delivering fully integrated network alarm monitoring solutions that combine intrusion detection with video verification capabilities.
+Since its founding in 2006 in Shenzhen, Athenalarm has built a reputation as a dedicated burglar alarm manufacturer focused on research, design, and production of high-quality wireless and network alarm systems. With nearly two decades of experience, the company has evolved from producing early [AS-9000 series panels](https://athenalarm.com/burglar-alarm/intrusion-alarm-panel/alarm-control-panel/) to delivering fully integrated network alarm monitoring solutions that combine intrusion detection with [video verification](https://athenalarm.com/network-alarm-system/network-alarm-monitoring-system-application/) capabilities.
 
 ![Athenalarm Professional Burglar Alarm Manufacturing](https://athenalarm.com/wp-content/uploads/2023/03/Athenalarm-burglar-alarm-manufacturer-scaled.jpg)
 
