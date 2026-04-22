@@ -1,15 +1,41 @@
+# ==========================================
 # Website Basic Information
-baseURL = "https://blogen.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
+# ==========================================
+# 确保 baseURL 结尾有斜杠，这是 Hugo 生成正确路径的基础
+baseURL = "https://blogen.athenalarm.com/"
 title = "Athenalarm Blog"
 languageCode = "en"
 theme = "ananke"
 
-# Author Information (optional)
+# 强制规范化网址：防止谷歌因 http/https 或 trailing slash 问题认为内容重复
+canonifyURLs = true
+# 生成更清晰的 URL 结构
+uglyURLs = false
+
+# ==========================================
+# Author Information
+# ==========================================
 [author]
   name = "Athenalarm"
   email = "info@athenalarm.com"
 
-# Website Menu (optional)
+# ==========================================
+# SEO & Indexing Settings (新增重点)
+# ==========================================
+[sitemap]
+  # 告诉爬虫更新频率和优先级
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+# 启用分类索引（标签和分类），增加内部链接入口
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# ==========================================
+# Website Menu
+# ==========================================
 [menu]
   [[menu.main]]
     identifier = "home"
@@ -29,8 +55,13 @@ theme = "ananke"
     url = "/contact/"
     weight = 3
 
-# ---------------------------
-# Home Page Settings
-# ---------------------------
-paginate = 5          # 首页显示最新 5 篇文章
-mainSections = ["posts"]  # Home 页面只显示 type 为 "posts" 的文章
+# ==========================================
+# Content & Pagination Settings
+# ==========================================
+paginate = 5
+mainSections = ["posts"]
+
+# 确保即使没有描述，也会生成基本的 Meta 标签
+[params]
+  description = "Professional B2B Security Systems and Burglar Alarm Solutions by Athenalarm."
+  # 建议在这里添加您的社交媒体链接或 Google Site Verification ID (如果有)
