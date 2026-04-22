@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# 这一行是解决收录问题的核心，直接告诉谷歌地图在哪
+Sitemap: https://blogen.athenalarm.com/sitemap.xml
