@@ -114,7 +114,7 @@ A manufacturer oriented toward global security alarm distribution opportunities 
 ## Athenalarm: A Factory-Based Burglar Alarm Manufacturer Built for Distributors
 
 🔗 Official website:  
-[https://athenalarm.com/](https://athenalarm.com/])
+[https://athenalarm.com/](https://athenalarm.com/)
 
 Athenalarm is a China-based [burglar alarm manufacturer](https://athenalarm.com/burglar-alarm-manufacturer/) with a product range spanning intrusion alarm panels, PIR motion sensors, alarm detectors, wireless alarm systems, alarm components, and smart home security solutions. The company operates as a factory-direct supplier and serves international security alarm distributors, importers, and bulk buyers.
 
