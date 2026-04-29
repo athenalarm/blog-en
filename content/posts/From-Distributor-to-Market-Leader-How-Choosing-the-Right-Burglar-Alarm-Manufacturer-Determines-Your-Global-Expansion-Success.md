@@ -231,7 +231,7 @@ Athenalarm offers security alarm distributors a factory-direct relationship with
 If you are a security alarm wholesale buyer, importer, or regional distributor looking to expand your product range or develop a private label alarm line:
 
 - Explore Athenalarm's full product range at [https://athenalarm.com](https://athenalarm.com) — covering alarm panels, motion sensors, detectors, wireless systems, and accessories.  
-- Review the OEM services available for distributors at https://athenalarm.com/burglar-alarm-manufacturer/our-services/oem-security-alarm-systems/(https://athenalarm.com/burglar-alarm-manufacturer/our-services/oem-security-alarm-systems/).  
-- Contact the team directly to discuss distributor partnership terms, minimum order quantities, and OEM program details at https://athenalarm.com/contact/(https://athenalarm.com/contact/).
+- Review the OEM services available for distributors at [https://athenalarm.com/burglar-alarm-manufacturer/our-services/oem-security-alarm-systems/](https://athenalarm.com/burglar-alarm-manufacturer/our-services/oem-security-alarm-systems/).  
+- Contact the team directly to discuss distributor partnership terms, minimum order quantities, and OEM program details at [https://athenalarm.com/contact/](https://athenalarm.com/contact/).
 
 The right burglar alarm manufacturer is not a vendor you manage — it is a partner that determines how far you can go.
