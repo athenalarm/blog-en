@@ -158,7 +158,7 @@ Beyond standalone product supply, Athenalarm has developed [network alarm monito
 
 The availability of alarm center management software — paired with the hardware range — means distributors can position themselves as full solution providers rather than just component suppliers. This is a meaningful commercial differentiator in markets where security alarm wholesale buyers are looking for turnkey-capable partners.
 
-[![network alarm monitoring system](https://img.youtube.com/FouMQpGDZNk/0.jpg)](https://www.youtube.com/watch?v=FouMQpGDZNk) 
+[![network alarm monitoring system](https://img.youtube.com/FouMQpGDZNk/0.jpg)](https://www.youtube.com/shorts/FouMQpGDZNk) 
 
 ---
 
