@@ -7,8 +7,6 @@ description: "Insights from the SIA Standards and Technology Open House Perimete
 keywords: ["Perimeter security", "SIA Standards", "Security design"]
 ---
 
-# Engineering the Modern Perimeter: Technical Insights from the SIA Subcommittee Session
-
 For professional security designers and B2B procurement specialists, a perimeter is often viewed as a singular physical line—a fence, a wall, or a gate. However, the technical deliberations at the **SIA Standards and Technology Open House (May 14, 2026)**—specifically within the **Perimeter Security Subcommittee**—revealed a shift toward a more sophisticated "spatial logic."
 
 **[Athenalarm](https://athenalarm.com/)** participated in this session to help bridge the gap between advanced hardware and the evolving standards for critical infrastructure. The consensus is clear: an effective perimeter is a calculated system of **setbacks, clear zones, and legal intent buffers**.
