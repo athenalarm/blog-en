@@ -218,7 +218,7 @@ This framework assumes the node hardware is functional. Before beginning any ele
 
 ---
 
-![Athenalarm burglar alarms(https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
+![Athenalarm burglar alarms](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
 
 ## 5. Commercial Value for Global Alarm Distributors and B2B Importers
 
