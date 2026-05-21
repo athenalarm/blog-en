@@ -1,4 +1,3 @@
-
 ---
 title: "Evaluating Bus-Topology and IP-Multiplexing Architecture in Factory Security Systems: A Technical Guide for Commercial Alarm Distributors and System Integrators"
 date: 2026-05-21T09:00:00+08:00
