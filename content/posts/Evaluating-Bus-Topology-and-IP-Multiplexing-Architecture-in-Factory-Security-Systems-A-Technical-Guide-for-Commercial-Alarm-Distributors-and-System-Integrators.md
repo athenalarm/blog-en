@@ -212,6 +212,7 @@ Voltage < 10.5V DC     Voltage ≥ 11.5V DC
 → Monitor under full-load alarm condition
 → Upgrade wire gauge on next scheduled maintenance
 → Flag for power injector installation within 12 months
+```
 
 This framework assumes the node hardware is functional. Before beginning any electrical measurement, verify the node is not in tamper condition (cover removed), confirm the bus address is correctly set, and confirm the panel firmware has recognized the node historically. Panel event logs showing a node intermittently online and offline over several weeks are a signature of marginal voltage — not node hardware failure.
 
