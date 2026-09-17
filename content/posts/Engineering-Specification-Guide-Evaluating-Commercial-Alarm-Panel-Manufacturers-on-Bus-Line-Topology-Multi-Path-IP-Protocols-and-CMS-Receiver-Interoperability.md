@@ -1196,7 +1196,7 @@ The principle is straightforward:
 
 That distinction should be applied equally to Athenalarm and to competing manufacturers.
 
-![Athenalarm Intrusion Alarm Panel]https://files.athenalarm.com/images/Athenalarm-alarm-control-panel-3.jpg)
+![Athenalarm Intrusion Alarm Panel](https://files.athenalarm.com/images/Athenalarm-alarm-control-panel-3.jpg)
 
 ---
 
